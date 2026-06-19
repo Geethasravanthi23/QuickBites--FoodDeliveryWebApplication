@@ -1,36 +1,88 @@
-# \# QuickBites Food Application
+ QuickBites Food Delivery Web Application
 
-# 
+ Overview
 
-# \## Screenshots
+QuickBites is a Java-based Food Delivery Web Application that enables users to browse restaurants, explore food menus, add items to a cart, and place orders online. The project was developed to demonstrate full-stack web development skills using Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, and JavaScript.
 
-# 
+ Features
 
-# \### Home Page
+* User Registration and Login
+* Restaurant Listing
+* Food Menu Display
+* Shopping Cart Functionality
+* Order Placement
+* Checkout Process
+* Session Management
+* Responsive User Interface
 
-# !\[Home Page](screenshots/home-page.png)
+Tech Stack
 
-# 
+ Backend
 
-# \### Registration Page
+* Java
+* JSP
+* Servlets
+* JDBC
 
-# !\[Registration Page](screenshots/register-page.png)
+ Frontend
 
-# 
+* HTML5
+* CSS3
+* JavaScript
 
-# \### Login Page
+Database
 
-# !\[Login Page](screenshots/login-page.png)
+* MySQL
 
-# 
+ Tools
 
-# \### About Page
+* Eclipse IDE
+* Apache Tomcat
+* Git & GitHub
 
-# !\[About Page](screenshots/about-page.png)
+ Project Structure
 
-# 
+text
+src/
+build/
+screenshots/
+README.md
 
-# \### Checkout Page
 
-# !\[Checkout Page](screenshots/checkout-page.png)
+## Screenshots
+
+ Home Page
+
+![Home Page](screenshots/home-page.png)
+
+ Registration Page
+
+![Registration Page](screenshots/register-page.png)
+
+ Login Page
+
+![Login Page](screenshots/login-page.png)
+
+ About Page
+
+![About Page](screenshots/about-page.png)
+
+ Checkout Page
+
+![Checkout Page](screenshots/checkout-page.png)
+
+ Learning Outcomes
+
+* Developed a complete Java web application
+* Implemented MVC architecture concepts
+* Integrated MySQL database using JDBC
+* Worked with session management and authentication
+* Improved front-end and back-end integration skills
+
+## Author
+
+Geetha Sravanthi Nelakurthi
+
+* GitHub: https://github.com/Geethasravanthi23
+* LinkedIn: https://linkedin.com/in/geethasravanthi-nelakurthi-8b06ba259
 
